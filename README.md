@@ -2,8 +2,18 @@
 AI Model for Medical Segmentation, with Adapters and Dataset Training
 
 References:
-MedSAM - Bowanglab: https://github.com/bowang-lab/MedSAM?tab=readme-ov-file
+
+MedSAM - Bowanglab: https://github.com/bowang-lab/MedSAM
+
 SAM - Meta: https://github.com/facebookresearch/segment-anything
+
+
+Dataset:
+
+http://medicaldecathlon.com/
+
+GGDrive: https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2?usp=drive_link
+
 
 ### 🔧 **Training Overview**  
 - **Method**: Sequential training on 5 medical segmentation tasks  
